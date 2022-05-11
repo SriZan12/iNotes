@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">iNotes</string>
+    <string name="description">Description</string>
+    <string name="subtitle">SubTitle</string>
+    <string name="title">Title</string>
+    <string name="search">Search</string>
+    <string name="set_reminder_as_well">Set Reminder AS well !</string>
+    <string name="setdate">setDate</string>
+    <string name="set_time">SetTime</string>
+    <string name="enable">Enable</string>
+    <string name="todo">TODO</string>
+</resources>
